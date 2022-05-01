@@ -1,0 +1,19 @@
+{
+  "name": "boostrap-form-checkbox-group-fixed",
+  "version": "0.1.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "vue": "^2.6.0",
+    "bootstrap-vue": "^2.14.0",
+    "bootstrap": "^4.4.0"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^4.3.0"
+  },
+  "keywords": []
+}
